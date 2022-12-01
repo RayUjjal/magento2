@@ -1,0 +1,6 @@
+.env*
+!.env.example
+
+hamilton_mage2
+
+.DS_Store
